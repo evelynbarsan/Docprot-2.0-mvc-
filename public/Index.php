@@ -30,8 +30,8 @@
 				<div class="botao">
 					<input type="submit" class="submit" value="Entrar" name="submit">
 				</div>
-				<div class="link"><a href="#" class="recuperar">esqueceu a senha?</div>
-				<div class="link"><a href="../assets/php/cadastro.php" class="cadastro">Criar conta</div>
+				<div class="link"><a href="../assets/php/recsenha.php" class="recuperar">esqueceu a senha?</div>
+				<div class="link"><a href="../assets/php/cadastro.php" class="cadastro">criar conta</div>
 			</div>
 		</form>
 	</div>

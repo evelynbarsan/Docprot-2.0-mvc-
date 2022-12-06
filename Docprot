@@ -6,8 +6,8 @@ o objetivo é facilitar o processo de indentificar o documento e em qual situaç
 metas diarias:
 6/12
 [x]estrutura do login;
-[ ]cadastro;
-[ ]recuperação.
+[x]cadastro;
+[x]recuperação.
 
 07/12
 [ ]criação do banco de dados;
