@@ -5,7 +5,20 @@ o objetivo é facilitar o processo de indentificar o documento e em qual situaç
 
 metas diarias:
 6/12
-estrutura do login, cadastro e recuperação.
+[x]estrutura do login;
+[ ]cadastro;
+[ ]recuperação.
 
 07/12
-implementação com o banco de dados
+[ ]criação do banco de dados;
+[ ]implementação com o banco de dados;
+[ ]estabelecer acesso.
+
+09/12
+[ ]criar página inicial;
+[ ]página de inserção de dados;
+[ ]página e apliação. 
+
+10/12
+
+11/12
