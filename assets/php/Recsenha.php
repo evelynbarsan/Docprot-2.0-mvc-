@@ -5,6 +5,7 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<title>Recuperar Senha | DOCprot</title>
 	<link rel="stylesheet" type="text/css" href="../css/normalize.css">
+	<link rel="stylesheet" type="text/css" href="../css/base.css">
 	<link rel="stylesheet" type="text/css" href="#"> <!~~ adicionar~~>
 	<link rel="preconnect" href="https://fonts.googleapis.com"/>
 	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin/>
@@ -19,7 +20,7 @@
 			<input type="email" id="email" name="email" placeholder="nome@dominio.com" required>
 			<div class="link"><a href="../../public/index.php">Cancelar</a></div>
 			<div class="botao">
-				<input type="submit" value="Enviar" name="submit" onclick="">
+				<input type="submit" class="enviar" value="Enviar" name="submit" onclick="">
 			</div>
 		</form>
 	</div>

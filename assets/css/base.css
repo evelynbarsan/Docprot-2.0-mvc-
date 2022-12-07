@@ -1,0 +1,35 @@
+body{
+	font-family: 'Roboto', sans-serif;
+	padding: auto;
+	margin: auto;
+	background: aliceblue;
+	color: #05103D;
+}
+
+/*ajustes gerais dos links*/
+a:link,a:visited{
+	color: #000000;
+	font-size: 19px;
+	text-decoration: none;
+}
+a:hover{
+	text-decoration: underline;
+}
+.botao input {
+	width: 100px;
+	height: 40px;
+	border-radius: 30px;
+	margin-top: 20px;
+	background-color: white;
+	border: none;
+}
+.botao .submit{
+	width: 300px;
+	height: 40px;
+	border-radius: 30px;
+	margin-top: 20px;
+	background-color: white;
+	border: none;
+}
+
+

@@ -5,6 +5,7 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<title>Cadastro | DOCprot</title>
 	<link rel="stylesheet" type="text/css" href="../css/normalize.css">
+	<link rel="stylesheet" type="text/css" href="../css/base.css">
 	<link rel="stylesheet" type="text/css" href="#"> <!~~ adicionar~~>
 	<link rel="preconnect" href="https://fonts.googleapis.com"/>
 	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin/>
@@ -24,7 +25,7 @@
 			<input type="password" id="senha" name="senha" autocomplete="off" required>
 			<div class="link"><a href="../../public/index.php">Cancelar</a></div>
 			<div class="botao">
-				<input type="submit" value="Criar" name="submit" onclick="">
+				<input type="submit" class="enviar" value="Criar" name="submit" onclick="">
 			</div>
 		</form>
 	</div>

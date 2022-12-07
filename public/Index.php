@@ -6,7 +6,8 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<title>Login | DOCprot</title>
 	<link rel="stylesheet" type="text/css" href="../assets/css/normalize.css">
-	<link rel="stylesheet" type="text/css" href="#"> <!~~ adicionar~~>
+	<link rel="stylesheet" type="text/css" href="../assets/css/base.css">
+	<link rel="stylesheet" type="text/css" href="../assets/css/index.css"> <!~~ adicionar~~>
 	<link rel="preconnect" href="https://fonts.googleapis.com"/>
 	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin/>
 	<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Roboto&display=swap">
