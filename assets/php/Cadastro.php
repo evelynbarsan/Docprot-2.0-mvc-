@@ -14,7 +14,7 @@
 <body>
 	<div id="cadastro">
 		<h1>Novo Usuário</h1>
-		<form class="card" action="">
+		<form class="card" action="cad.php" method="post">
 			<label for="nome">Nome</label>
 			<input type="text" id="nome" nome="nome" required>
 			<label for="sobrenome">Sobrenome</label>
