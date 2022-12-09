@@ -16,9 +16,9 @@
 		<h1>Novo Usuário</h1>
 		<form class="card" action="cad.php" method="post">
 			<label for="nome">Nome</label>
-			<input type="text" id="nome" nome="nome" required>
+			<input id="nome" nome="nome" required>
 			<label for="sobrenome">Sobrenome</label>
-			<input type="text" id="sobrenome" nome="sobrenome" required>
+			<input id="sobrenome" nome="sobrenome" required>
 			<label for="email">E-mail</label>
 			<input type="email" id="email" name="email" autocomplete="off" required>
 			<label for="senha">Senha</label>

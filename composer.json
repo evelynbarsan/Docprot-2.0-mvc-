@@ -1,0 +1,15 @@
+{
+	"description": "Docprot - Protocolação",
+	"authors": [
+		{
+			"name": "Evelyn Santos",
+			"email": "eveffc@gmail.com"
+		}
+	],
+	"autoload":{
+		"psr-4":{
+			"App\\": "App"
+		}
+	},
+	"required":{}
+}
