@@ -1,6 +1,6 @@
 <!doctype html>
 <!DOCTYPE html>
-<html>
+<html lang="pt-br">
 <head>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
@@ -13,11 +13,16 @@
 	<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Roboto&display=swap">
 </head>
 <body>
+	<?php
+	require './vendor/autoload.php';
+	use Core\ConfigController as Login; //apelido 
+	$url = new Login ();
+	?>
 	<div id="login">
 		<div class="logo"> 
 			<h1><img src="../assets/img/doc.prot.png" width="500px"></h1>
 		</div>
-		<form class="card">
+		<form class="card" method="post">
 			<div class="usser">
 				<h2>Login</h2>
 				<div class="inputs">
