@@ -1,16 +1,16 @@
 {
-	"description": "Docprot - Protocolação",
-	"authors": [
+	"description": "Docprot - protocolação de objetos",
+	"authors":[
 		{
-			"name": "Evelyn Santos",
+			"name":"Evelyn Santos",
 			"email": "eveffc@gmail.com"
 		}
 	],
 	"autoload":{
 		"psr-4":{
-			"App\\": "App",
-			"Core\\": "core"
+			"App\\": "app",
+			"Core\\":"core"
 		}
 	},
-	"required":{}
+	"require":{}
 }

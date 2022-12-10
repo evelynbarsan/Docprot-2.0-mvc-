@@ -1,14 +1,19 @@
 <?php
 namespace Core;
-	class ConfigController
-	{
-		
-		public function __construct(){
-			if(!empty( filter_input (INPUT_GET, "url", FILTER_DEFEUT))){
-				echo "Acessar pagina interna";
 
-			}else{
-				echo "pagina inicial";
-			}
+Class ConfigController
+{
+	public function __construct()
+	{
+		if(!empty (filter_input(INPUT_GET, "url", FILTER_DEFAULT))){
+			$url = filter_input(INPUT_GET, "url", FILTER_DEFAULT);
+			echo "pagina interna";
+
+		} else{
+			echo "Pagina inicial";
 		}
 	}
+	public function carregar(){
+	
+	}
+}

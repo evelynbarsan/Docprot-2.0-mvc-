@@ -22,7 +22,7 @@
 		<div class="logo"> 
 			<h1><img src="../assets/img/doc.prot.png" width="500px"></h1>
 		</div>
-		<form class="card" method="post">
+		<form class="card">
 			<div class="usser">
 				<h2>Login</h2>
 				<div class="inputs">
