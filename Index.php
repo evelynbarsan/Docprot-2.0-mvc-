@@ -1,5 +1,4 @@
 <!doctype html>
-<!DOCTYPE html>
 <html lang="pt-br">
 <head>
 	<meta charset="utf-8">
@@ -20,7 +19,7 @@
 	?>
 	<div id="login">
 		<div class="logo"> 
-			<h1><img src="../assets/img/doc.prot.png" width="500px"></h1>
+			<h1><img src="../assets/img/doc.prot.png"></h1>
 		</div>
 		<form class="card">
 			<div class="usser">
@@ -36,8 +35,8 @@
 				<div class="botao">
 					<input type="submit" class="submit" value="Entrar" name="submit">
 				</div>
-				<div class="link"><a href="../assets/php/recsenha.php" class="recuperar">esqueceu a senha?</div>
-				<div class="link"><a href="../assets/php/cadastro.php" class="cadastro">criar conta</div>
+				<div class="link"><a href="../assets/php/recsenha.php" class="recuperar">esqueceu a senha?</a></div>
+				<div class="link"><a href="../assets/php/cadastro.php" class="cadastro">criar conta</a></div>
 			</div>
 		</form>
 	</div>
